@@ -70,7 +70,7 @@
 
 .theme-dark {
 /* Lightness */
-	--SKIN-lightness: 0% !important;
+--SKIN-lightness: 0% !important;
 
 /* Grading */
 --SKIN-grading-primary: 9% !important;
