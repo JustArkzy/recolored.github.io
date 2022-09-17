@@ -1,3 +1,5 @@
+root: {
+
 /* Info */
   --SKIN-skin: "Doubled Edition" !important;
   --SKIN-author: "JustArkzy" !important;
@@ -5,6 +7,7 @@
   /* Wallpaper */
   --SKIN-wallpaper: url("") !important;
   --SKIN-wallpaper-opacity: 1.0 !important; 
+  
 }
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
